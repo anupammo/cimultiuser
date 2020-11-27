@@ -1,0 +1,9 @@
+#header-bg {
+    background-image: url('../img/light-landscape-nature-red-33041.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: #8f7582;
+}
+.txt-shadow {
+    text-shadow: #000 0px 2px 2px;
+}
